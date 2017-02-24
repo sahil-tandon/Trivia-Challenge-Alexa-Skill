@@ -1,0 +1,164 @@
+AnswerIntent {Answer}
+AnswerIntent is it {Answer}
+AnswerIntent it is {Answer}
+AnswerIntent option {Answer}
+AnswerIntent choice {Answer}
+AnswerIntent number {Answer}
+AnswerIntent option number {Answer}
+AnswerIntent answer option {Answer}
+AnswerIntent answer choice {Answer}
+AnswerIntent answer number {Answer}
+AnswerIntent answer option number {Answer}
+AnswerIntent answer choice number {Answer}
+AnswerIntent correct answer is {Answer}
+AnswerIntent correct choice is {Answer}
+AnswerIntent correct option is {Answer}
+AnswerIntent correct answer option is {Answer}
+AnswerIntent correct answer choice is {Answer}
+AnswerIntent the correct answer option is {Answer}
+AnswerIntent the correct answer choice is {Answer}
+AnswerIntent i think it is {Answer}
+AnswerIntent i think it is option {Answer}
+AnswerIntent i think it is choice {Answer}
+AnswerIntent i think it is number {Answer}
+AnswerIntent i think it is option number {Answer}
+AnswerIntent i think it is answer option {Answer}
+AnswerIntent i think it is answer choice {Answer}
+AnswerIntent i think it is answer number {Answer}
+AnswerIntent i think it is answer option number {Answer}
+AnswerIntent i think it is answer choice number {Answer}
+AnswerIntent i think the correct answer is {Answer}
+AnswerIntent i think the correct choice is {Answer}
+AnswerIntent i think the correct option is {Answer}
+AnswerIntent i think the correct answer option is {Answer}
+AnswerIntent i think the correct answer choice is {Answer}
+AnswerIntent i think the correct answer option is {Answer}
+AnswerIntent i think the correct answer choice is {Answer}
+AnswerIntent i guess it is {Answer}
+AnswerIntent i guess it is option {Answer}
+AnswerIntent i guess it is choice {Answer}
+AnswerIntent i guess it is number {Answer}
+AnswerIntent i guess it is option number {Answer}
+AnswerIntent i guess it is answer option {Answer}
+AnswerIntent i guess it is answer choice {Answer}
+AnswerIntent i guess it is answer number {Answer}
+AnswerIntent i guess it is answer option number {Answer}
+AnswerIntent i guess it is answer choice number {Answer}
+AnswerIntent i guess the correct answer is {Answer}
+AnswerIntent i guess the correct choice is {Answer}
+AnswerIntent i guess the correct option is {Answer}
+AnswerIntent i guess the correct answer option is {Answer}
+AnswerIntent i guess the correct answer choice is {Answer}
+AnswerIntent i guess the correct answer option is {Answer}
+AnswerIntent i guess the correct answer choice is {Answer}
+AnswerIntent {Answer} is right
+AnswerIntent {Answer} is correct
+AnswerIntent {Answer} is the answer
+AnswerIntent {Answer} is the right option
+AnswerIntent {Answer} is the right answer
+AnswerIntent {Answer} is the correct option
+AnswerIntent {Answer} is the correct answer
+AnswerIntent i think {Answer} is right
+AnswerIntent i think {Answer} is correct
+AnswerIntent i think {Answer} is the answer
+AnswerIntent i think {Answer} is the right option
+AnswerIntent i think {Answer} is the right answer
+AnswerIntent i think {Answer} is the correct option
+AnswerIntent i think {Answer} is the correct answer
+AnswerIntent i think {Answer} is the correct choice
+AnswerIntent i guess {Answer} is right
+AnswerIntent i guess {Answer} is correct
+AnswerIntent i guess {Answer} is the answer
+AnswerIntent i guess {Answer} is the right option
+AnswerIntent i guess {Answer} is the right answer
+AnswerIntent i guess {Answer} is the correct option
+AnswerIntent i guess {Answer} is the correct answer
+AnswerIntent i guess {Answer} is the correct choice
+AnswerIntent is it {Answer}
+AnswerIntent it is {Answer}
+AnswerIntent option {Answer}
+AnswerIntent choice {Answer}
+AnswerIntent number {Answer}
+AnswerIntent option number {Answer}
+AnswerIntent answer option {Answer}
+AnswerIntent answer choice {Answer}
+AnswerIntent answer number {Answer}
+AnswerIntent answer option number {Answer}
+AnswerIntent answer choice number {Answer}
+AnswerIntent correct answer is {Answer}
+AnswerIntent correct choice is {Answer}
+AnswerIntent correct option is {Answer}
+AnswerIntent correct answer option is {Answer}
+AnswerIntent correct answer choice is {Answer}
+AnswerIntent the correct answer option is {Answer}
+AnswerIntent the correct answer choice is {Answer}
+
+AMAZON.StartOverIntent start
+AMAZON.StartOverIntent restart
+AMAZON.StartOverIntent new game
+AMAZON.StartOverIntent new quiz
+AMAZON.StartOverIntent restart game
+AMAZON.StartOverIntent restart quiz
+AMAZON.StartOverIntent start new game
+AMAZON.StartOverIntent start new quiz
+AMAZON.StartOverIntent start from scratch
+AMAZON.StartOverIntent start a new game
+AMAZON.StartOverIntent start a new quiz
+AMAZON.StartOverIntent start a new quiz
+AMAZON.StartOverIntent please start a new game
+AMAZON.StartOverIntent please start a new quiz
+AMAZON.StartOverIntent please restart game
+AMAZON.StartOverIntent please restart quiz
+AMAZON.StartOverIntent please restart the game
+AMAZON.StartOverIntent please restart the quiz
+AMAZON.StartOverIntent please start from scratch
+
+DontKnowIntent skip
+DontKnowIntent pass
+DontKnowIntent don't know
+DontKnowIntent skip question
+DontKnowIntent pass question
+DontKnowIntent skip this question
+DontKnowIntent pass this question
+DontKnowIntent don't know it
+DontKnowIntent don't know this
+DontKnowIntent don't know that
+DontKnowIntent don't know answer
+DontKnowIntent don't know the answer
+DontKnowIntent i don't know
+DontKnowIntent i don't know it
+DontKnowIntent i don't know this
+DontKnowIntent i don't know that
+DontKnowIntent i don't know the answer
+DontKnowIntent i don't know this question
+DontKnowIntent i don't know the answer to this question
+DontKnowIntent i don't know what the answer is
+DontKnowIntent i want to skip this
+DontKnowIntent i want to skip that
+DontKnowIntent i want to pass this
+DontKnowIntent i want to pass that
+DontKnowIntent i want to skip this one
+DontKnowIntent i want to pass this one
+DontKnowIntent i want to skip that one
+DontKnowIntent i want to pass that one
+DontKnowIntent i want to skip this question
+DontKnowIntent i want to pass this question
+DontKnowIntent i want to skip that question
+DontKnowIntent i want to pass that question
+
+ChooseTopic {Topic}
+ChooseTopic pick {Topic}
+ChooseTopic choose {Topic}
+ChooseTopic select {Topic}
+ChooseTopic I pick {Topic}
+ChooseTopic I choose {Topic}
+ChooseTopic I select {Topic}
+ChooseTopic I like {Topic}
+ChooseTopic I will like {Topic}
+ChooseTopic I would like {Topic}
+ChooseTopic I will go with {Topic}
+ChooseTopic I would go with {Topic}
+ChooseTopic {Topic} please
+ChooseTopic {Topic} sounds good
+ChooseTopic {Topic} will be good
+ChooseTopic {Topic} would be good
